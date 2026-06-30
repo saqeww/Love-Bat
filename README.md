@@ -1,2 +1,0 @@
-# Love-Bat
-This Virus!!! RUN ONLY ON A VIRTUAL MACHINE
